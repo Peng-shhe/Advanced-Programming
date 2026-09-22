@@ -13,8 +13,12 @@
 
 ```python
 # ✅ 合法
-my_var = 10;  _name = "private";  variable1 = 5
-user_name = "John";  _private = True;  MyClass = "x"
+my_var = 10;  
+_name = "private";  
+variable1 = 5
+user_name = "John";  
+_private = True;  
+MyClass = "x"
 
 # ❌ 非法
 1variable = 10   # 不能数字开头
