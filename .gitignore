@@ -1,2 +1,11 @@
 # 压缩包（已解压为 Pal/ 目录，不重复提交）
 Pal.rar
+
+# Python 缓存
+__pycache__/
+
+# WinHex 工具目录
+winhex/
+
+# 修改器自动备份的存档
+*.bak
